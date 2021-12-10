@@ -6,6 +6,7 @@ Approximately 3.5 billion searches are performed on Google daily, which means th
 --Top 10 countries which search for “Machine Learning” on Google
 ![top 10 countries with hits](https://user-images.githubusercontent.com/61291771/145649001-572ca7b9-6c9e-4e0f-9d92-30d96036a30a.png)
 
+
 --Visualize this data using a bar chart.
 ![Bar-Rplot](https://user-images.githubusercontent.com/61291771/145649276-e8cec71c-9e64-46a9-8732-643064e4c610.png)
 
